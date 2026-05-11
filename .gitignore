@@ -1,0 +1,10 @@
+node_modules
+dist
+# 已迁移进根项目的旧独立工程，避免重复纳入版本库
+moments-copy-generator/
+teacher-activity-graphic/
+.DS_Store
+*.local
+.idea
+.vscode/*
+!.vscode/extensions.json
